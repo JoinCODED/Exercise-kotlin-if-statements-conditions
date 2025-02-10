@@ -1,5 +1,4 @@
-# Exercise-kotlin-variables-data-types
-## Steps
+## Exercise Steps
 1. fork the repo
 2. create your branch with your name
 3. Work on the exersice
