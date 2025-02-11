@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise-kotlin-if-statements-conditions.iml" filepath="$PROJECT_DIR$/.idea/Exercise-kotlin-if-statements-conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HUS/HUS.iml" filepath="$PROJECT_DIR$/HUS/HUS.iml" />
     </modules>
   </component>
 </project>
