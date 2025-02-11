@@ -6,7 +6,3 @@ fun main() {
     else if (num < 0) {
         println("the number is negative");
     }
-    else {
-        println("the number is 0");
-    }
-}
