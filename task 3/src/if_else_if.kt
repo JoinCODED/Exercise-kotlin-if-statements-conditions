@@ -1,9 +1,11 @@
 fun main() {
-    var num = -1
+    var num = 0
     if (num > 0 ){
         println("The number is positive")
-    } else {
+    } else if (num < 0){
         println("The number is negative")
 
+    } else {
+        println("The number is zero")
     }
 }
