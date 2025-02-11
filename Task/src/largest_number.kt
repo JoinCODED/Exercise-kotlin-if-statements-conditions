@@ -1,7 +1,7 @@
 fun main() {
     var a: Int = 4;
-    var b: Int = 4;
-    var c: Int = 4;
+    var b: Int = 34;
+    var c: Int = 244;
 
     if (a > b && a > c) {
         println("The largest number is $a");
