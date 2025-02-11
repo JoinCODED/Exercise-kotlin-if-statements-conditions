@@ -12,5 +12,4 @@ fun main() {
     } else {
         println("All Equal: $a");
     }
-
 }
