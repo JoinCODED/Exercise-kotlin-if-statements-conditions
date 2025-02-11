@@ -1,10 +1,16 @@
 fun main(){
-    val num = 0
-    if (num > 0)
-        println("The number is positive")
-    else if(num < 0)
-        println("The number is negative")
+val a = 4
+val b = 444
+val c = 4444
+var largestNumber: Int
+
+if ((a > b) && (a > c))
+    largestNumber = a
+    else if((b > a) && (b > c))
+        largestNumber = b
     else
-        println("The number is zero")
+        largestNumber = c
+println("The largest number is $largestNumber")
+
 
 }
