@@ -19,10 +19,10 @@ fun main() {
 
 
     var year = 1992
-    if (score > 90) {
-        println("Leap Year\n")
 
-    } else if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0)) {
+    if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0)) {
         println("Not a Leap Year\n")
+    } else {
+        println("Leap Year\n")
     }
 }
