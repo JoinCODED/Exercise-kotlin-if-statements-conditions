@@ -1,8 +1,9 @@
 fun main() {
     var num: Int = 2;
 
-    if (num % 2 == 0)
+    if (num % 2 == 0) {
         println( "The number is even");
-    else
+    } else {
         println("The number is odd");
+    }
 }
