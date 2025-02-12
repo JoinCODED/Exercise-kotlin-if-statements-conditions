@@ -1,6 +1,7 @@
 fun main() {
 
-    var num = 7
+ //task1
+   var num = 5
 
     if (num > 0) {
         println("The number $num is postive")
@@ -8,5 +9,6 @@ fun main() {
     else {
         println("The number $num is negative")
     }
+
 
 }
