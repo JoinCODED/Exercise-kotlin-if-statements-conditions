@@ -10,5 +10,7 @@ fun main() {
         println("The number $num is negative")
     }
 
+//task2
 
+    
 }
